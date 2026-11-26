@@ -124,7 +124,7 @@ ecommerce-sql-analysis/
 **Shivam Shrestha**
 Data Analyst | SQL • Power BI • Excel
 
-- LinkedIn: [linkedin.com/in/shivam-shrestha](https://www.linkedin.com/in/shivam-shrestha)
+- LinkedIn: [linkedin.com/in/shivam-shrestha](https://www.linkedin.com/in/shivam-shrestha-4447703b1/)
 - GitHub: [github.com/shivamshrestha](https://github.com/shivamshrestha)
 
 ---
